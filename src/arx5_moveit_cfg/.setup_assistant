@@ -1,0 +1,11 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: arx5
+    relative_path: urdf/arx5.urdf
+    xacro_args: ""
+  SRDF:
+    relative_path: config/arx5.srdf
+  CONFIG:
+    author_name: lyk
+    author_email: 1336857701@qq.com
+    generated_timestamp: 1727869036

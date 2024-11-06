@@ -1,0 +1,8 @@
+prefix=/home/lyk/arx_ws/devel
+
+Name: arx5
+Description: Description of arx5
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

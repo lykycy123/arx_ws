@@ -1,0 +1,8 @@
+prefix=/home/lyk/arx_ws/install
+
+Name: arx5_moveit_cfg
+Description: Description of arx5_moveit_cfg
+Version: 0.3.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

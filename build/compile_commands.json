@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/lyk/arx_ws/build/ARX5/src/arm_control",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"arm_control\\\" -I/home/lyk/arx_ws/devel/include -I/home/lyk/arx_ws/src/ARX5/src/arm_control/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 -I/usr/include/bullet  -O2 -g -DNDEBUG   -std=c++11 -o CMakeFiles/joint_pub_test_node.dir/src/joint_pub_test.cpp.o -c /home/lyk/arx_ws/src/ARX5/src/arm_control/src/joint_pub_test.cpp",
+  "file": "/home/lyk/arx_ws/src/ARX5/src/arm_control/src/joint_pub_test.cpp"
+},
+{
+  "directory": "/home/lyk/arx_ws/build/ARX5/src/arm_control",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"arm_control\\\" -I/home/lyk/arx_ws/devel/include -I/home/lyk/arx_ws/src/ARX5/src/arm_control/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 -I/usr/include/bullet  -O2 -g -DNDEBUG   -std=c++11 -o CMakeFiles/follow_joint_trajectory_node.dir/src/follow_joint_trajectory.cpp.o -c /home/lyk/arx_ws/src/ARX5/src/arm_control/src/follow_joint_trajectory.cpp",
+  "file": "/home/lyk/arx_ws/src/ARX5/src/arm_control/src/follow_joint_trajectory.cpp"
+},
+{
+  "directory": "/home/lyk/arx_ws/build/ARX5/src/arm_control",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"arm_control\\\" -I/home/lyk/arx_ws/devel/include -I/home/lyk/arx_ws/src/ARX5/src/arm_control/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 -I/usr/include/bullet  -O2 -g -DNDEBUG   -std=c++11 -o CMakeFiles/moveit_test_node.dir/src/moveit_test.cpp.o -c /home/lyk/arx_ws/src/ARX5/src/arm_control/src/moveit_test.cpp",
+  "file": "/home/lyk/arx_ws/src/ARX5/src/arm_control/src/moveit_test.cpp"
+},
+{
+  "directory": "/home/lyk/arx_ws/build/ARX5/src/arm_control",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"arm_control\\\" -Darm_control_EXPORTS -I/home/lyk/arx_ws/devel/include -I/home/lyk/arx_ws/src/ARX5/src/arm_control/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 -I/usr/include/bullet  -O2 -g -DNDEBUG -fPIC   -std=c++11 -o CMakeFiles/arm_control.dir/src/App/arm_control.cpp.o -c /home/lyk/arx_ws/src/ARX5/src/arm_control/src/App/arm_control.cpp",
+  "file": "/home/lyk/arx_ws/src/ARX5/src/arm_control/src/App/arm_control.cpp"
+},
+{
+  "directory": "/home/lyk/arx_ws/build/ARX5/src/arm_control",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"arm_control\\\" -I/home/lyk/arx_ws/devel/include -I/home/lyk/arx_ws/src/ARX5/src/arm_control/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 -I/usr/include/bullet  -O2 -g -DNDEBUG   -std=c++11 -o CMakeFiles/cmd_pub_test_node.dir/src/cmd_pub_test.cpp.o -c /home/lyk/arx_ws/src/ARX5/src/arm_control/src/cmd_pub_test.cpp",
+  "file": "/home/lyk/arx_ws/src/ARX5/src/arm_control/src/cmd_pub_test.cpp"
+},
+{
+  "directory": "/home/lyk/arx_ws/build/ARX5/src/arm_control",
+  "command": "/usr/bin/c++  -DROSCONSOLE_BACKEND_LOG4CXX -DROS_BUILD_SHARED_LIBS=1 -DROS_PACKAGE_NAME=\\\"arm_control\\\" -I/home/lyk/arx_ws/devel/include -I/home/lyk/arx_ws/src/ARX5/src/arm_control/include -I/opt/ros/noetic/include -I/opt/ros/noetic/share/xmlrpcpp/cmake/../../../include/xmlrpcpp -I/usr/include/eigen3 -I/usr/include/bullet  -O2 -g -DNDEBUG   -std=c++11 -o CMakeFiles/arm_node.dir/src/arx.cpp.o -c /home/lyk/arx_ws/src/ARX5/src/arm_control/src/arx.cpp",
+  "file": "/home/lyk/arx_ws/src/ARX5/src/arm_control/src/arx.cpp"
+}
+]

@@ -1,0 +1,2 @@
+ARX5/src/arm_control:arx5:arx5_moveit_cfg
+-DCATKIN_DEVEL_PREFIX=/home/lyk/arx_ws/devel -DCMAKE_INSTALL_PREFIX=/home/lyk/arx_ws/install -G Unix Makefiles

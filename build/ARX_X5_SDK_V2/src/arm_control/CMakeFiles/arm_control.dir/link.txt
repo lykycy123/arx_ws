@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -O2 -g -DNDEBUG  -shared -Wl,-soname,libarm_control.so -o /home/lyk/arx_ws/devel/lib/libarm_control.so CMakeFiles/arm_control.dir/src/App/arm_control.cpp.o 
